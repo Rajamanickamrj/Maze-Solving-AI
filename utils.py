@@ -1,3 +1,9 @@
+"""
+[Author]: Rajamanickam S
+[Date]: 2024-Dec-13
+[Description]: This module contains the main logic for loading a maze from a file.
+It reads the maze data from a text file, parses it, and returns the maze, start position, and goal position.
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 
